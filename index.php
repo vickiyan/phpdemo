@@ -1,5 +1,5 @@
 <?php
 
-echo "oss devops workshop is nice!!!!!";
+echo "oss devops workshop is good!!!!!";
 
 ?>
